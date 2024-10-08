@@ -9,3 +9,5 @@ As instruções SQL podem ser divididas em categorias conforme sua finalidade co
 - DDL (Data Definition Language) – Comandos utilizados para criar, modificar ou remover objetos em um SGBD. Como por exemplo a criação de uma tabela.
 
 - DQL (Data Query Language) – Comandos utilizados para realizar consultas aos objetos do SGBD.
+
+[U+1F609 Voltar](../../../README.md)
