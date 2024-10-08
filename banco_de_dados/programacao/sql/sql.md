@@ -14,4 +14,4 @@ As instruções SQL podem ser divididas em categorias conforme sua finalidade co
 
 - DQL (Data Query Language) – Comandos utilizados para realizar consultas aos objetos do SGBD.
 
-[😀 Voltar](../../../README.md)
+[👈 Voltar](../../../README.md)
